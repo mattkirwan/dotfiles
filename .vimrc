@@ -70,6 +70,7 @@ endif
 
 set hidden
 
+set number
 
 map <C-h> <C-w>h
 map <C-j> <C-w>j
